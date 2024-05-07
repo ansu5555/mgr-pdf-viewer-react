@@ -76,7 +76,7 @@
     "stylelint-config-standard": "^20.0.0"
   },
   "dependencies": {
-    "pdfjs-dist": "^2.6.347",
+    "pdfjs-dist": "^4.2.67",
     "prop-types": "^15.7.2"
   }
 }
